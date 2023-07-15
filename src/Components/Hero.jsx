@@ -12,9 +12,9 @@ const Hero = () => {
           data-aos-duration="1200"
         >
           <span className="text-lime-300">
-            You Miss Pepe? Don’t miss the Happy Pepe
+            You Miss Pepe? Don’t miss the hoppy Pepe
           </span>
-          <br /> who make the Pepe Happy
+          <br /> who make the Pepe hoppy
         </h1>
         <img
           src={HeroLogo}

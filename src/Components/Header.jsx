@@ -12,7 +12,7 @@ const Header = () => {
           data-aos-duration="1200"
         >
           <img src={headerLogo} alt="" className="w-[2rem]" />
-          happy pepe
+          hoppy pepe
         </a>
         <div
           className="flex items-center gap-5"
