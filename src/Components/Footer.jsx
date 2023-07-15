@@ -29,7 +29,7 @@ const Footer = () => {
                 />
               </svg>
             </a>{" "}
-            <a href="" className="telegram">
+            <a href="https://t.me/HoppyPepe" className="telegram">
               <svg
                 width="38"
                 height="38"
