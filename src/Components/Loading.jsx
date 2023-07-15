@@ -11,7 +11,7 @@ const Loading = () => {
   }, []);
 
   return loading ? (
-    <section className="min-h-screen w-full bg-lime-900 flex justify-center items-center fixed top-0 left-0 z-[9999]">
+    <section className="min-h-screen w-full bg-[#4B9540] flex justify-center items-center fixed top-0 left-0 z-[9999]">
       <Grid
         height="80"
         width="80"
