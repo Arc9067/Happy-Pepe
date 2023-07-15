@@ -15,7 +15,7 @@ const Footer = () => {
           </h1>
 
           <div className="flex items-center gap-5">
-            <a href="" className="etherscan">
+            <a href="https://twitter.com/HoppyPepe" className="etherscan">
               <svg
                 width="40"
                 height="48"

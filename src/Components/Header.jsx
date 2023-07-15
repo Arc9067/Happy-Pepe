@@ -19,7 +19,7 @@ const Header = () => {
           data-aos="fade-down"
           data-aos-duration="1200"
         >
-          <a href="" className="etherscan">
+          <a href="https://twitter.com/HoppyPepe" className="etherscan">
             <svg
               width="40"
               height="48"
